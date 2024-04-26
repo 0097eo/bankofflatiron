@@ -1,0 +1,15 @@
+.input-container {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    gap: 10px; 
+}
+
+.input-container input,
+.input-container .react-datepicker-wrapper {
+    flex: 1; 
+    margin: 0;
+}
+.date-picker-wrapper {
+    width: 200px; 
+}

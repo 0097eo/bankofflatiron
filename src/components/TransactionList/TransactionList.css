@@ -1,0 +1,22 @@
+div {
+    margin: 20px 0;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none; /* Removes the default bullet points */
+    padding: 0;
+    width: 80%; /* Adjusts the width of the list */
+    margin: 0 auto; /* Centers the list */
+}
+
+li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc; /* Adds a border between list items */
+    font-size: 16px;
+    color: #333; /* Dark grey text */
+}
+
+li:last-child {
+    border-bottom: none; /* Removes the border from the last list item */
+}
