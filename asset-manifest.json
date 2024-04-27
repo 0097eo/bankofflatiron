@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bankofflatiron/static/css/main.c3aec3e2.css",
+    "main.js": "/bankofflatiron/static/js/main.6b1bf273.js",
+    "static/js/453.7c992545.chunk.js": "/bankofflatiron/static/js/453.7c992545.chunk.js",
+    "index.html": "/bankofflatiron/index.html",
+    "main.c3aec3e2.css.map": "/bankofflatiron/static/css/main.c3aec3e2.css.map",
+    "main.6b1bf273.js.map": "/bankofflatiron/static/js/main.6b1bf273.js.map",
+    "453.7c992545.chunk.js.map": "/bankofflatiron/static/js/453.7c992545.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3aec3e2.css",
+    "static/js/main.6b1bf273.js"
+  ]
+}
