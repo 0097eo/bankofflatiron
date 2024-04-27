@@ -20,7 +20,7 @@ const TransactionForm = ({ addTransaction }) => {
 
  return (
     <div>
-      <h2>Add Transaction</h2>
+      
       <form onSubmit={handleSubmit}>
       <div className="input-container">
       <label htmlFor="datePicker">Date:</label>
