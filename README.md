@@ -1,11 +1,12 @@
 # Flatiron Bank
-Simple ecommerce react js app 
+Simple react js app that shows a table of transactions, where a user can filter the transactions, add new transaction to the table or sort the existing transaction.
 
 # Author
 Emmanuel Otieno
 
 
 ### [Live demo](https://okelootieno.github.io/bankofflatiron/)
+![image](https://github.com/OkeloOtieno/bankofflatiron/assets/41443081/adfb813c-c530-4e9f-9035-d623b233605f)
 
 
 ## Run Locally
@@ -21,11 +22,6 @@ $ npm start
 
 ---
 
-## Build the project
-```sh
-$ npm run build
-```
-
 ## Features
 
 * Filter transactions based on description
@@ -33,5 +29,6 @@ $ npm run build
 * Add a new transaction to the table
 
   
-## MIT License
+## License
+MIT License
 
